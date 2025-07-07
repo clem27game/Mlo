@@ -28,19 +28,18 @@ Pour commencer avec MLO, rendez-vous sur le [site officiel de MLO](https://mlo-c
 
 1.  **Accédez à l'éditeur :** Sur la page principale, vous trouverez une zone de texte où vous pouvez écrire votre code MLO.
 2.  **Écrivez votre premier programme :**
-    ```
+   
+ ```
     MLO imprime "Bonjour le Monde MLO !"
     MLO délai 1000
     MLO text couleur vert "Ceci est mon premier pas avec MLO."
     MLO délai 1500
  MLO VarText nom = "Votre nom"
-    
     MLO imprime "Salut,  Amuse-toi bien. Ton nom est"
 MLO imprime nom
+MLO ciel "MLO est génial !"
+```
 
-    MLO ciel "MLO est génial !"
-    ```
-    
 3.  **Exécutez le code :** Cliquez sur le bouton "Run" (ou "Exécuter") pour voir votre programme prendre vie dans la zone de sortie.
 
 --
